@@ -34,7 +34,7 @@ For insuring, that all transactions are owner verified we would require the end 
 ## IV.	Practical use:
 When the end user goes to the free market and he wants to buy some fruits for example, 
 
-![VendorImage](/VendorImage.jpg)
+![VendorImage](/MarketVendor.jpg)
 
 he will find the QR code of the vendor or the vendor can supply him with his code from phone. The end user then scans the QR code and enters the amount of the purchase. The vendor receives the conformation message and all is well.     
  
