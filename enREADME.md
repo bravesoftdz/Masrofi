@@ -32,7 +32,11 @@ As for the number exact, we could replace the digit 7 with 6 or 5 based on the c
 For insuring, that all transactions are owner verified we would require the end user to enter a predefined pin code each time He/She wants to preform one of the above CMDs.
 
 ## IV.	Practical use:
-When the end user goes to the free market and he wants to buy some fruits for example, he will find the QR code of the vendor or the vendor can supply him with his code from phone. The end user then scans the QR code and enters the amount of the purchase. The vendor receives the conformation message and all is well.     
+When the end user goes to the free market and he wants to buy some fruits for example, 
+
+![VendorImage](/VendorImage.jpg)
+
+he will find the QR code of the vendor or the vendor can supply him with his code from phone. The end user then scans the QR code and enters the amount of the purchase. The vendor receives the conformation message and all is well.     
  
 The same way, we could implement an automatic system where a software will generate the QR code based on the amount of the cart (mall scenario) and the end user only scans and confirms the purchase.
 ## V. Concerns:
